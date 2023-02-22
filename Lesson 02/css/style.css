@@ -1,0 +1,41 @@
+/* Universal Selector */
+/* * {
+    font-family: monospace;
+} */
+
+
+html {
+    font-size: 22px;
+}
+
+/* body {
+    font-size: 22px;
+} */
+
+main {
+    font-family: monospace;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+/* simple selector */
+p {
+    color: blue!;
+}
+
+/* class selector */
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
+.highlight {
+    text-transform: uppercase;
+    color: blue;
+}
+
+/* Specificity Calculator */

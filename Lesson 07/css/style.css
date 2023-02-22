@@ -1,0 +1,32 @@
+
+
+body {
+    padding: 10%;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+/* main {
+    opacity: 0.5;
+} */
+
+a {
+    /* text-decoration: none; */
+    /* cursor: pointer; */
+    /* color: blue; */
+    color: steelblue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover, a:focus {
+    color:dodgerblue;
+    opacity: 0.6;
+    background: gold;
+}
+
+a:active {
+    color: red;
+}
